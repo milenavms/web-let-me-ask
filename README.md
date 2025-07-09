@@ -10,7 +10,7 @@ Um aplicativo moderno de perguntas e respostas (Q&A) desenvolvido com **React**,
 - **Vite** – Ferramenta de build e servidor de desenvolvimento rápido
 - **TypeScript** – Tipagem estática para JavaScript
 - **Tailwind CSS** – Framework CSS utilitário
-- **shadcn/ui** – Componentes de UI acessíveis e customizáveis baseado no Tailwind
+- **shadcn/ui** – Componentes de UI acessíveis e customizáveis baseado no Tailwind (https://ui.shadcn.com/docs/components/)
 - **Biome** – Formatador e linter para padronização do código
 
 ---
